@@ -7,7 +7,7 @@
     <div style="text-align: center;">
         <img src="caminho_da_sua_imagem.jpg" alt="Minha Imagem" style="max-width: 100%; height: auto;">
         <br>
-        <a href="dashboard.html">
+        <a href="https://app.powerbi.com/groups/me/reports/f60957f0-b639-470f-8830-a123c0c97f6a/ReportSection?experience=power-bi">
             <button>Ir para o dashboard</button>
         </a>
     </div>
