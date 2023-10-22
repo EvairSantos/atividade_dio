@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Página</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="caminho_da_sua_imagem.jpg" alt="Minha Imagem" style="max-width: 100%; height: auto;">
+        <br>
+        <a href="dashboard.html">
+            <button>Ir para o dashboard</button>
+        </a>
+    </div>
+</body>
+</html>
